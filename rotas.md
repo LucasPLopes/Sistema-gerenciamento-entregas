@@ -14,6 +14,14 @@
 * PUT api/entrega
 * DELETE api/entrega
 
+## Usuários
+
+* GET api/usuario
+* GET api/usario/{id}
+* POST api/usuario
+* PUT api/usuario
+* DELETE api/usuario
+
 ## Endereco
 
 * GET /api/endereco/{cep}
