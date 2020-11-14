@@ -4,5 +4,7 @@
 
 * domain
 * service
+* service/dto
+* service/mapper
 * repository
 * web/rest
