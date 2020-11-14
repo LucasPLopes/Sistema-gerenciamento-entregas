@@ -1,1 +1,1 @@
-# Sistema-gerenciamento-entregas
+# Sistema de gerenciamento de entregas
